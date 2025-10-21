@@ -21,4 +21,4 @@ Footpronting es la huella digital , debemos obtener informacion que sea pertinen
 
 ![[Pasted image 20251020225444.png]]
 
-prueba comm
+prueba commit
