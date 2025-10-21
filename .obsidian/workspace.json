@@ -11,10 +11,14 @@
             "id": "3c784c5ef2cd01a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes-eJPT/Information Gathering/Information Gathering.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Information Gathering"
             }
           }
         ]
@@ -143,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "060b88827b7a1c5d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +178,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "23dcc1b0a51195d1",
+  "active": "3c784c5ef2cd01a1",
   "lastOpenFiles": [
-    "Apuntes-eJPT/Untitled",
+    "Apuntes-eJPT/Information Gathering/Information Gathering.md",
+    "Apuntes-eJPT/Information Gathering",
     "Untitled",
-    "Untitled.md",
     "Apuntes-eJPT/INE-Assessment-Methodologies-Information-Gathering-Course-Files.zip",
     "Apuntes-eJPT/Sin confirmar 284572.crdownload",
     "Apuntes-eJPT"
