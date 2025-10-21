@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "684256d0e28b201a",
+        "id": "a4183c3141b82c80",
         "type": "tabs",
         "children": [
           {
-            "id": "5c78f737f6a6b474",
+            "id": "3c784c5ef2cd01a1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -153,6 +153,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,6 +164,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c78f737f6a6b474",
-  "lastOpenFiles": []
+  "active": "23dcc1b0a51195d1",
+  "lastOpenFiles": [
+    "Apuntes-eJPT",
+    "Untitled.md"
+  ]
 }
