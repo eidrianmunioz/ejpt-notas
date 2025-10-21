@@ -12,6 +12,12 @@ Todo el resto de las fases dependerá de la información que se recopile o se ob
 
 **Passive Information Gathering**: Se trata de obtener la mayor cantidad de información sin necesidad de de comprometerse activamente con el objetivo.Por ejemplo , conocer la tecnología que lo aloja , dirección IP 
 
-**Active Information Gathering**: 
+**Active Information Gathering**: Se trata de obtener la mayor cantidad de información posible mediante la participación activa con el objetivo.
 
+Por ejemplo , en la fase de obtención de información pasiva , obtuvimos la IP del objetivo , en este caso un sitio web.En la fase de obtención de información pasiva , podemos obtener mediante nmap ,los puertos que esa dirección IP tiene operativos y que se está ejecutando en esos puertos , lo que podemos utilizar para identificar vulnerabilidades que pueden ser explotadas.
+![[Pasted image 20251020225022.png]]
+
+Footpronting es la huella digital , debemos obtener informacion que sea pertinente a un objetivo en particular.
+
+![[Pasted image 20251020225444.png]]
 
