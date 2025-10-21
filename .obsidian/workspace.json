@@ -11,12 +11,14 @@
             "id": "3c784c5ef2cd01a1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251020225444.png"
+                "file": "Apuntes-eJPT/Information Gathering/Information Gathering.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251020225444"
+              "icon": "lucide-file",
+              "title": "Information Gathering"
             }
           }
         ]
@@ -42,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -165,22 +167,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23dcc1b0a51195d1",
+  "active": "3c784c5ef2cd01a1",
   "lastOpenFiles": [
+    "Pasted image 20251020225444.png",
     "Pasted image 20251020225022.png",
     "Apuntes-eJPT/Information Gathering/Information Gathering.md",
-    "Pasted image 20251020225444.png",
     "Apuntes-eJPT/Information Gathering",
     "Untitled",
     "Apuntes-eJPT/INE-Assessment-Methodologies-Information-Gathering-Course-Files.zip",
