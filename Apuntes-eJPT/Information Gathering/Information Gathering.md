@@ -52,6 +52,25 @@ Con #BuiltWith es posible ver que tipo de tecnología se está utilizando en el 
 
 ![[Pasted image 20251022002626.png]]
 
+Nos dice que tecnologías o widgets está utilizando un sitio en particular:
+
+![[Pasted image 20251022002946.png]]
+
+#wappalizer es otra herramienta que entrega informacion de un sitio y de sus teconoligias.
+
+En Kali linux podemos utilizat #whatweb , el cual nos traerá informacion del sitio , como las verisones de ph utilizadas , que el sitio es wordpress , etc.
+
+![[Pasted image 20251022003826.png]]
+
+Tambien es posible descargar todo un sitio web para analizarlo .Lo anterior con la herramienta HTTrack website copier(https://www.httrack.com/).Se puede instalar tanto en windows como linux , pero en este caso lo instalremos en kali linux , a través del comando `sudo apt-get install webhttrack`.
+
+
+
+
+
+
+
+
 
 
 

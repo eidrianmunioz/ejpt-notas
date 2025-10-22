@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "060b88827b7a1c5d",
+  "active": "3c784c5ef2cd01a1",
   "lastOpenFiles": [
+    "Pasted image 20251022003826.png",
+    "Pasted image 20251022003809.png",
+    "Pasted image 20251022002946.png",
     "Pasted image 20251022002626.png",
     "Pasted image 20251022001910.png",
     "Pasted image 20251022001341.png",
