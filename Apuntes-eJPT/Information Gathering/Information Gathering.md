@@ -23,4 +23,11 @@ Footpronting es la huella digital , debemos obtener informacion que sea pertinen
 
 Si al realizar un búsqueda de DNS devuelve mas de una dirección IP , probablemente el sitio está detras de Cloudfare o un proxy.
 
-![[Pasted image 20251021222653.png]]
+![[host jali.png]]
+
+Hay otra informacion oculta en el sitio , estos pueden ser enlaces al final de pagina o cosas mas ocultas, como por ejemplo robots.txt, el cual puede contener unas entradas en el sitio.
+
+![[Pasted image 20251021223143.png]]
+
+
+

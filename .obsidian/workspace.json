@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a248a22680755a4c",
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +181,8 @@
   },
   "active": "3c784c5ef2cd01a1",
   "lastOpenFiles": [
-    "Pasted image 20251021222653.png",
+    "Pasted image 20251021223143.png",
+    "host jali.png",
     "Pasted image 20251021220413.png",
     "Pasted image 20251020225444.png",
     "Pasted image 20251020225022.png",
