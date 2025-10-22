@@ -64,6 +64,10 @@ En Kali linux podemos utilizat #whatweb , el cual nos traerá informacion del si
 
 Tambien es posible descargar todo un sitio web para analizarlo .Lo anterior con la herramienta HTTrack website copier(https://www.httrack.com/).Se puede instalar tanto en windows como linux , pero en este caso lo instalremos en kali linux , a través del comando `sudo apt-get install webhttrack`.
 
+![[Pasted image 20251022005004.png]]
+
+Lo anterior puede ser util para examinar mas en profundida un sitio web, inlcuso , con el fin de identificar vulnerabilidades.
+
 
 
 
