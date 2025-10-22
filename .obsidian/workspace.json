@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Apuntes-eJPT/Information Gathering/Information Gathering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema de Information Gathering"
             }
           },
           {
@@ -159,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c784c5ef2cd01a1",
+  "active": "567f484217dc42ad",
   "lastOpenFiles": [
     "Pasted image 20251020225444.png",
     "Pasted image 20251020225022.png",
