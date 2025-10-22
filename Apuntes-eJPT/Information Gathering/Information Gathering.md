@@ -21,4 +21,6 @@ Footpronting es la huella digital , debemos obtener informacion que sea pertinen
 
 ![[Pasted image 20251020225444.png]]
 
-prueba commit prueba2
+Si al realizar un búsqueda de DNS devuelve mas de una dirección IP , probablemente el sitio está detras de Cloudfare o un proxy.
+
+![[Pasted image 20251021220413.png]]
