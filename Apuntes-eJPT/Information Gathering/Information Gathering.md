@@ -25,7 +25,36 @@ Si al realizar un búsqueda de DNS devuelve mas de una dirección IP , probablem
 
 ![[host jali.png]]
 
+#robots.txt
+
 Hay otra informacion oculta en el sitio , estos pueden ser enlaces al final de pagina o cosas mas ocultas, como por ejemplo robots.txt, el cual puede contener unas entradas en el sitio.
 
 ![[Pasted image 20251021223143.png]]
+
+bing , google u otro reastreara (crawler) la página.Casi todos los sitios tiene un robots.txt
+disallow: /wp-admin/ quiere decir que se debe ignorar el siguiente directorio.Wp quiere decir WordPress, por lo que hemos detectado que el sitio web está ejecutando wordpress.Por que no se querría que no apareciera en una busqueda por Google?esto porque es un directorio restringido, en este caso , correponde al directorio de administracion de WordPress.Podemo ver tambien que se esta ejecutando un wordpress debido a que ,mas abajo tiene un complemento especifico de wordPress()
+
+![[Pasted image 20251022001341.png]]
+Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json
+
+#sitemap
+**sitemap.xml**
+contiene un listado de las paginas importantes que contiene un sitio web.Le da mas información  a los motores de búsqueda de los sitios web 
+
+https://hackersploit.org/sitemap_index.xml
+
+![[Pasted image 20251022001910.png]]
+Todo lo que aparece en los #sitemap puede ser indexado por los motores de busqueda.
+
+el sitemaop es muy util cuando realizas un ejercicio o unna prueba de penetracion en un sitio con wordpress.
+
+Con #BuiltWith es posible ver que tipo de tecnología se está utilizando en el sitio web.
+
+![[Pasted image 20251022002626.png]]
+
+
+
+
+
+
 

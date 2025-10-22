@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a248a22680755a4c",
@@ -163,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +179,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c784c5ef2cd01a1",
+  "active": "060b88827b7a1c5d",
   "lastOpenFiles": [
+    "Pasted image 20251022002626.png",
+    "Pasted image 20251022001910.png",
+    "Pasted image 20251022001341.png",
     "Pasted image 20251021223143.png",
     "host jali.png",
     "Pasted image 20251021220413.png",
