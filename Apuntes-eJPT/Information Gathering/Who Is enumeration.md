@@ -8,3 +8,5 @@ Whois paginaweb.com
 
 devolverá toda esta informacion.
 
+![[Pasted image 20251022214820.png]]
+
