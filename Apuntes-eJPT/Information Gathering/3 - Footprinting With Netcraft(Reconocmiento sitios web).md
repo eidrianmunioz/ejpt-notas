@@ -8,6 +8,9 @@ Netcraft sirve para recopilar infmracion de un sdominio , como por ejmplo cuenta
 
 Es un script de Python el cual provee la habilidad de analizar todos los Registros NS de zonas de transferencia.Enumera registros de DNS generales de un dominio en particulas , como MA,SOA,NS,A,AAAA,SPF y TXT
 
+Registros DNS
+
+MX= Mail Server
 NS=Name Server
 A= IPv4
 AAAA= IPv6
@@ -19,6 +22,9 @@ En Kali linuz podemos utilizar la herramienta #dnsrecon.
 Otra forma de hacer el reconocimiento es via Web es utilizando DNSdumpster.com
 
 ![[Pasted image 20251023215036.png]]
+
+![[Pasted image 20251023220623.png]]
+
 
 
 
