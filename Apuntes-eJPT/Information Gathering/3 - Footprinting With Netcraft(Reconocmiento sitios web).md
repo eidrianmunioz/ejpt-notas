@@ -12,8 +12,13 @@ NS=Name Server
 A= IPv4
 AAAA= IPv6
 
-#dnsrecon
+En Kali linuz podemos utilizar la herramienta #dnsrecon. 
+
 `dnsrecon -d [dominio.com]`
+
+Otra forma de hacer el reconocimiento es via Web es utilizando DNSdumpster.com
+
+![[Pasted image 20251023215036.png]]
 
 
 
