@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes-eJPT/Information Gathering/Who Is enumeration.md",
+                "file": "Apuntes-eJPT/Information Gathering/2 - Who Is enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Who Is enumeration"
+              "title": "2 - Who Is enumeration"
+            }
+          },
+          {
+            "id": "a81b936b97c76eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes-eJPT/Information Gathering/2 - Who Is enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Who Is enumeration"
+            }
+          },
+          {
+            "id": "6ebcaaba6a275e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes-eJPT/Information Gathering/3 - Footprinting With Netcraft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Footprinting With Netcraft"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.5
   },
   "right": {
     "id": "a248a22680755a4c",
@@ -140,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes-eJPT/Information Gathering/Information Gathering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Information Gathering"
+              "title": "Outline"
             }
           },
           {
@@ -164,29 +192,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "3c784c5ef2cd01a1",
+  "active": "23dcc1b0a51195d1",
   "lastOpenFiles": [
+    "Apuntes-eJPT/Information Gathering/2 - Who Is enumeration.md",
+    "Apuntes-eJPT/Information Gathering/3 - Footprinting With Netcraft.md",
+    "Apuntes-eJPT/Information Gathering/1 - Information Gathering.md",
+    "2025-10-22.md",
+    "Untitled 1.md",
     "Pasted image 20251022214820.png",
-    "Apuntes-eJPT/Information Gathering/Information Gathering.md",
-    "Apuntes-eJPT/Information Gathering/Who Is enumeration.md",
-    "Sin título.canvas",
-    "conflict-files-obsidian-git.md",
-    "host jali.png",
     "Pasted image 20251022005004.png",
     "Pasted image 20251022003826.png",
     "Pasted image 20251022003809.png",
@@ -195,8 +224,7 @@
     "Pasted image 20251022001910.png",
     "Pasted image 20251022001341.png",
     "Pasted image 20251021223143.png",
-    "Pasted image 20251021220413.png",
-    "2025-10-22.md",
+    "host jali.png",
     "Apuntes-eJPT/Information Gathering",
     "Untitled",
     "Apuntes-eJPT/INE-Assessment-Methodologies-Information-Gathering-Course-Files.zip",
