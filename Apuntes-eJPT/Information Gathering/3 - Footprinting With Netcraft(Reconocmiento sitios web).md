@@ -67,6 +67,15 @@ Listar directorios de una pagina web, lo cual es una configuracion pare ver dire
 Encontrar una version antigua de una pagina web:
 cache:paginaweb.cl
 Tambien se puede usar wayback machine
+\
+Buscar contrasenas:
+inurl:auth_user_file.txt
+inurl:passwd.txt
+
+Google Hacking Database:
+PErmite encontrar informacion específica
+
+![[Pasted image 20251025192641.png]]
 
 
 
