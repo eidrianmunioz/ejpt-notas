@@ -62,9 +62,13 @@ site:*.mcerrillos.cl intitle:admin
 Encontrar un pdf:
 site:*.prinal.cl filetype:pdf
 
-Listar directorios de una pagina web, lo cual puede ser una vulnerabildiad.
+Listar directorios de una pagina web, lo cual es una configuracion pare ver directorios.
 
-\https://www.mat.uc.cl/archivos/Image/
+Encontrar una version antigua de una pagina web:
+cache:paginaweb.cl
+Tambien se puede usar wayback machine
+
+
 
 
 
