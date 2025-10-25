@@ -64,5 +64,8 @@ site:*.prinal.cl filetype:pdf
 
 Listar directorios de una pagina web, lo cual puede ser una vulnerabildiad.
 
+\https://www.mat.uc.cl/archivos/Image/
+
+
 
 
