@@ -27,7 +27,7 @@ Otra forma de hacer el reconocimiento es via Web es utilizando DNSdumpster.com
 
 #WafWoof #wafw00f
 WAF es un firewall de aplicaciones.
-Wafwoof es una herramienta de Figerprinting web, qque envía una solicitud HTTP normal y analiza la respuesta que identificará un nuemro de soluciones WAF. 
+Wafwoof es una herramienta de Figerprinting web, qque envía una solicitud HTTP normal y analiza la respuesta que identificará un nuemro de soluciones WAF. Sirve tambien para ver si una aplicacion esta protegida o no por un WAF y que aplicacion está protegida en particular.
 
 
 Repositorio en Gihub:
@@ -37,3 +37,5 @@ https://github.com/EnableSecurity/wafw00f
 ![[Pasted image 20251025165900.png]]
 
 
+Wafw00f -l (es una L)
+![[Pasted image 20251025172513.png]]
