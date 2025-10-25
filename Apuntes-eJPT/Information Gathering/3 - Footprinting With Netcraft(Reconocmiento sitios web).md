@@ -50,4 +50,19 @@ sublist3r -d hackersploit.org -e google,yahoo
 
 ![[Pasted image 20251025180005.png]]
 
+#GoogleDorks
+
+site:paginaweb.cl
+
+Buscar un panel de administracion con Google dorks
+
+site:mipaginaweb.com inurl:admin
+site:*.mcerrillos.cl intitle:admin
+
+Encontrar un pdf:
+site:*.prinal.cl filetype:pdf
+
+Listar directorios de una pagina web, lo cual puede ser una vulnerabildiad.
+
+
 
