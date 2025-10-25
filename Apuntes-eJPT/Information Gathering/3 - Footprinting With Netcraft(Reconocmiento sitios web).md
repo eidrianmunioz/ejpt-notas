@@ -42,3 +42,12 @@ Wafw00f -l (es una L)
 
 #Sublist3r
 Como enumerar pasivamente subdominios de un dominio.No se interactua activamente con una web.Se utiliza motores de busueda donde se pudo haber indexado la pagina web.
+
+(Esta herramienta se debe instalar en kali linux)
+
+Comando:
+sublist3r -d hackersploit.org -e google,yahoo
+
+![[Pasted image 20251025180005.png]]
+
+
